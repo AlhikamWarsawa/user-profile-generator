@@ -1,11 +1,17 @@
-# User Profile Generator
+<h1 align="center">User Profile Generator</h1>
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Project Status](https://img.shields.io/badge/status-active-brightgreen.svg)
+<p align="center">
+  <img src="https://img.shields.io/badge/license-MIT-blue.svg" />
+  <img src="https://img.shields.io/badge/status-active-brightgreen.svg" />
+</p>
 
-![Logo](assets/zygmacore.jpeg)
+<p align="center">
+  <img src="assets/zygmacore.jpeg" alt="Logo" width="180">
+</p>
 
-<p align="center"><strong>A tiny Python CLI that transforms simple inputs into a clean user profile summary.</strong></p>
+<h3 align="center">
+  A tiny Python CLI that transforms simple inputs into a clean user profile summary.
+</h3>
 
 ---
 
